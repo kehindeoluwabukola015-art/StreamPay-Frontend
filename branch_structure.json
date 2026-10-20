@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1747-add-stream-lifecycle-methods-to-the-streampay",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1747-add-stream-lifecycle-methods-to-the-streampay": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1747-add-stream-lifecycle-methods-to-the-streampay",
+    "origin"
+  ]
+}
